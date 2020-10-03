@@ -12,7 +12,7 @@ The generated ***QR code can be saved on the local machine as PNG file***.
  
  
 ##### To run the above code you might require to install some module. Install using the command below : 
-##### 1 Install pyqrcode 
+##### 1 Install Required Modules
 ```python
  pip install -r requirements.txt
  ```
